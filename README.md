@@ -1,7 +1,7 @@
 # OOPsIllustration
 This project illustrate OOPs features.
 
-Compile java file in following order.<br>
+Compile java files in following order.<br>
 javac Car.java<br>
 javac Figo.java<br>
 javac BMW.java<br>
