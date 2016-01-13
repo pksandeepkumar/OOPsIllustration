@@ -1,11 +1,11 @@
 # OOPsIllustration
 This project illustrate OOPs features.
 
-Compile java file in following order.
-javac Car.java
-javac Figo.java
-javac BMW.java
-javac OOPsSample.java
-
-and run the main class
-java OOPsSample
+Compile java file in following order.<br>
+javac Car.java<br>
+javac Figo.java<br>
+javac BMW.java<br>
+javac OOPsSample.java<br>
+<br>
+and run the main class<br>
+java OOPsSample<br>
